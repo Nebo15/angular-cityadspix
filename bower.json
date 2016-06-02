@@ -1,0 +1,22 @@
+{
+  "name": "angular-cityadspix",
+  "main": "angular-cityadspix.js",
+  "homepage": "https://github.com/Nebo15/angular-cityadspix",
+  "authors": [
+    "Alexey Bondarenko <alexeybondarenko@me.com>"
+  ],
+  "description": "Angular JS module for CityAds Pix service",
+  "keywords": [
+    "angular",
+    "cityadspix",
+    "analytics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
