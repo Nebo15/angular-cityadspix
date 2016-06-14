@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Nebo15/angular-cityadspix/issues"
   },
-  "homepage": "https://github.com/Nebo15/angular-cityadspix#readme"
+  "homepage": "https://github.com/Nebo15/angular-cityadspix#readme",
+  "dependencies": {
+    "angular": "~1.5.0"
+  }
 }
