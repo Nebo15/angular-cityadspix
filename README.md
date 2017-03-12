@@ -1,5 +1,7 @@
 # angular-cityadspix
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Nebo15/angular-cityadspix.svg)](https://greenkeeper.io/)
+
 Angular JS module for CityAds Pix service
 
 ## Install
